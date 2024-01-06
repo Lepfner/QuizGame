@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "386418766141",
+    "firebase_url": "https://mtseminar-a3f60-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "mtseminar-a3f60",
+    "storage_bucket": "mtseminar-a3f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386418766141:android:3ba815ae93a4f8dbf81554",
+        "android_client_info": {
+          "package_name": "com.example.mtseminar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvz-vfkbzKBSFQMLoui3PHX6ewCSiRvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

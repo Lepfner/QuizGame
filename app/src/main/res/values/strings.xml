@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MTSeminar</string>
+    <string name="registriraj_se">Registriraj se</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="back">Back</string>
+    <string name="register">Register</string>
+    <string name="e_mail">E-mail</string>
+    <string name="age">Age</string>
+    <string name="full_name">Full name</string>
+    <string name="ime_predmeta">Ime predmeta:</string>
+    <string name="button">Button</string>
+    <string name="predavac">Predavac</string>
+    <string name="godina">Godina</string>
+    <string name="ime">Ime</string>
+</resources>
